@@ -1,0 +1,27 @@
+.container {
+    max-width: 100%;    
+    margin: 0 auto;
+    padding: 180px;
+    font-family: Arial, sans-serif;
+    background-color: powderblue;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .projects {
+    margin-top: 20px;
+  }
+
+  
+  
+  
+  
+  .footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.8em;
+  }
+  
